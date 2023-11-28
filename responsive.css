@@ -1,0 +1,45 @@
+/* Media Query 1440px */
+
+@media (max-width:1440px) {
+
+
+   
+   .container-fluid {
+    /* width: 100%; */
+    padding:0 0 0 0;
+   }
+
+
+}
+
+
+
+/* Media Query 1024px */
+
+@media (max-width:1024px) {
+
+
+
+
+}
+
+
+
+/* Media Query 768px */
+
+@media (max-width:768px) {
+
+
+
+}
+
+
+
+/* Media Query 570px */
+
+@media (max-width:570px) {
+
+
+
+
+}
